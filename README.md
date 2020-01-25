@@ -1,2 +1,2 @@
-# benedictify_
-benedictSchurwanz.net
+# Web Development Portfolio
+## benedictSchurwanz.net
